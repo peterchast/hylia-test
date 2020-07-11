@@ -4,7 +4,8 @@ title: Afoot and Light-Hearted I Finally Take to Development & Design
 metaDesc: ""
 date: 2020-07-11T03:46:02.393Z
 tags:
-  - Miscellaneous
+  - miscellaneous
+  - blog
 ---
 > For the things we have to learn before we can do them, we learn by doing them.
 > ― Aristotle
