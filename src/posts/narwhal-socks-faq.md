@@ -3,8 +3,8 @@ layout: layouts/post.njk
 title: Narwhal Socks FAQ
 date: 2020-07-12T01:49:39.890Z
 tags:
-  - blog
   - miscellaneous
+  - blog
 ---
 ## Q: I can’t seem to find the narwhal socks?
 
