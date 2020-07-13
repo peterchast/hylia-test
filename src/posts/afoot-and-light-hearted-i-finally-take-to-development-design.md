@@ -18,4 +18,4 @@ I will then invest my newly learned skills into the design and functions of this
 
 In several ways, therefore, the state of Narwhal Socks will be a measuring stick of my progress. And, eventually, it will become a monument to my overall success or failure as a web designer.
 
-Need more? Click here to check out the site FAQ.
+Need more? [Click here to check out the site FAQ](/posts/narwhal-socks-faq/).
