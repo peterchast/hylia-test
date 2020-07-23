@@ -10,7 +10,7 @@ tags:
   - neutrals
   - color palette
 ---
-![](/images/joanna-kosinska-1_cmofspfso-unsplash-resize-compress.jpg "Photo by <a href=\"https://unsplash.com/@joannakosinska?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Joanna Kosinska</a> on <a href=\"https://unsplash.com/s/photos/gray-colors?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a>")
+![](/images/joanna-kosinska-1_cmofspfso-unsplash-resize-compress.jpg "Photo by <a href=\\"https://unsplash.com/@joannakosinska?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\\">Joanna Kosinska</a> on <a href=\\"https://unsplash.com/s/photos/gray-colors?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\\">Unsplash</a>")
 
 When I first began my rabbit-hole into color theory, I expected to mostly read articles that said things like, “red is for anger and warnings, blue is for sadness and business, and green is for money and growth.” 
 
@@ -64,7 +64,7 @@ I’ve also seen this technique used to tint an entire color palette, connecting
 
 I’m sure I’ll try that out at some point. But for now, my final color palette looks like this:
 
-![](/images/nice-palette.png "(<a href=\\"https://coolors.co/0276a9-2f4148-f9fafb-ffffff-fdcc03\\">see palette live on coolers</a>)")
+![](/images/nice-palette.png "<a href=\"https://coolors.co/0276a9-2f4148-f9fafb-ffffff-fdcc03\">see palette live on coolers</a>")
 
 I also added white into the color palette because I’ll be using it for the website. 
 
