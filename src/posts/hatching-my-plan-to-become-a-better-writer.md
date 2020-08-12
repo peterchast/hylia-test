@@ -11,7 +11,7 @@ I have a number of stretch-beyond-frontend-design-&-development goals for this p
 
 So I suppose I’ll work on the latter. Specifically, I’ll look to improve my writing in the following areas:
 
-## Being concise and direct
+## Be concise and direct
 
 This is the top priority. A former English teacher once called my writing “lush,” a euphemism to be sure. I have a tendency to overwrite. And also to chase semi-relevant digressions. Gods of design please grant me the fortitude to murder my darlings. 
 
