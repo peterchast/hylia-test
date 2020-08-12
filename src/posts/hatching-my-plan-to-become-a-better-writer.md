@@ -15,7 +15,7 @@ So I suppose I’ll work on the latter. Specifically, I’ll look to improve my 
 
 This is the top priority. A former English teacher once called my writing “lush,” a euphemism to be sure. I have a tendency to overwrite. And also to chase semi-relevant digressions. Gods of design please grant me the fortitude to murder my darlings. 
 
-I also suffer from the unfortunate habit of using passive voice, a pattern which I’d like to interrupt (maybe using this) as soon as possible.
+I also suffer from the unfortunate habit of using passive voice, a pattern which I’d like to interrupt ([maybe using this](http://www.hemingwayapp.com/)) as soon as possible.
 
 ## Entertain, but with purpose
 
@@ -25,7 +25,7 @@ Here’s my hope: that the more comfortable I become with writing about design &
 
 ## Find more connections
 
-The secret to deep, interesting, useful writing is in consistently making intelligent and creative connections. Sascha from Zettlekasten.de sums it up well in his post about “The Barbell Method of Reading”:
+The secret to deep, interesting, useful writing is in consistently making intelligent and creative connections. Sascha from Zettlekasten.de sums it up well in his post about “[The Barbell Method of Reading](https://zettelkasten.de/posts/barbell-method-reading/)”:
 
 If you are a journalist and read the story of Martin Strel and don’t connect it to research on meditation, other extreme athletes, or post-traumatic growth, you’ll only write a shallow story about him.
 
